@@ -15,10 +15,15 @@ This project implements a face recognition-based attendance system that automate
 **Technology Stack**
 
 Programming Language: Python
+
 Libraries: OpenCV
+
 Python Modules: Os,Cv2,Numpy,Tkinter,Csv,Time and TTK Module
+
 Algorithm: Local Binary Patterns Histogram (LBPH)
+
 Database: MySQL (or any other database of your choice)
+
 Hardware: Camera (webcam or external camera)
 
 **Contributing**
